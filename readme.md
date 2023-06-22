@@ -91,6 +91,7 @@ Nodes are rewarded in TBY tokens. One TBY can be received for storing 1 TB of da
 
 [Discord Miners Group](https://discord.gg/cPz9m4cSWv)
 
+
 [DeNet - YouTube](https://www.youtube.com/channel/UCeCxt3tYbtSkJvaznNjQimQ)
 
 
