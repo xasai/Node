@@ -1,4 +1,7 @@
 <p align="center">
+<img src="assets/spinning_logo.gif" height="250">
+</p>
+<p align="center">
     <img src="assets/LOGO.png">
 </p>
 
